@@ -1,7 +1,6 @@
 - 👋 Hi, I’m George Adrian
-- 👀 I’m interested in programming with C++, PHP, Javascript and python
-- 🌱 I’m currently learning Java, python and more of C++
-- 💞️ I’m looking to collaborate on ecommerce systems
+- 👀 I’m interested in programming with C++, PHP, Javascript, Swift and python
+- 💞️ I’m looking to collaborate on ecommerce and booking systems
 - 📫 How to reach me: https://agdigitalsol.com/
 
 <!---
